@@ -27,3 +27,14 @@
   font-weight: bold;
   font-size: 25px
 }
+.image{
+  width: 130px;
+  margin-left: 70%;
+}
+.info{
+  font-weight: bold;
+  font-size: 20px
+}
+.date{
+  padding-left: 300px;
+}
