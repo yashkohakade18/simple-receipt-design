@@ -7,6 +7,7 @@
   font-family: "Roboto", sans-serif;
   font-weight: 600;
   font-style: normal;
+  padding-left: 25px;
 }
 .roboto-regular {
     font-family: "Roboto", sans-serif;
@@ -36,5 +37,23 @@
   font-size: 20px
 }
 .date{
-  padding-left: 300px;
+  padding-left: 350px;
+}
+.left{
+  padding-left: 400px;
+  font-weight: bold;
+  font-size: 20px
+}
+.details{
+  font-weight: bold;
+  font-size: 20px;
+}
+.side{
+  padding-left: 550px
+}
+.side1{
+  padding-left: 420px;
+}
+.side2{
+  padding-left: 570px;
 }
