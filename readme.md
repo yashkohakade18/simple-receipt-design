@@ -14,6 +14,8 @@ whether you are an employee or a normal person reciept serves as an important as
 We welcome contributions from the community to help us improve this project.IF you would like to contribute,follow these steps:
 
 1.Fork the repository to your Github account 
+
 2.Make your changes, add new content,or fix any existing issues.
+
 3.Open a new pull request in this repository.
 
